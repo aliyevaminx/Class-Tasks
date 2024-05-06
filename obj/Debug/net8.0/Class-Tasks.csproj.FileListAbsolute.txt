@@ -1,0 +1,14 @@
+C:\Users\Amin\Desktop\C#\Class-Tasks\bin\Debug\net8.0\Class-Tasks.exe
+C:\Users\Amin\Desktop\C#\Class-Tasks\bin\Debug\net8.0\Class-Tasks.deps.json
+C:\Users\Amin\Desktop\C#\Class-Tasks\bin\Debug\net8.0\Class-Tasks.runtimeconfig.json
+C:\Users\Amin\Desktop\C#\Class-Tasks\bin\Debug\net8.0\Class-Tasks.dll
+C:\Users\Amin\Desktop\C#\Class-Tasks\bin\Debug\net8.0\Class-Tasks.pdb
+C:\Users\Amin\Desktop\C#\Class-Tasks\obj\Debug\net8.0\Class-Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\C#\Class-Tasks\obj\Debug\net8.0\Class-Tasks.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\C#\Class-Tasks\obj\Debug\net8.0\Class-Tasks.AssemblyInfo.cs
+C:\Users\Amin\Desktop\C#\Class-Tasks\obj\Debug\net8.0\Class-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\C#\Class-Tasks\obj\Debug\net8.0\Class-Tasks.dll
+C:\Users\Amin\Desktop\C#\Class-Tasks\obj\Debug\net8.0\refint\Class-Tasks.dll
+C:\Users\Amin\Desktop\C#\Class-Tasks\obj\Debug\net8.0\Class-Tasks.pdb
+C:\Users\Amin\Desktop\C#\Class-Tasks\obj\Debug\net8.0\Class-Tasks.genruntimeconfig.cache
+C:\Users\Amin\Desktop\C#\Class-Tasks\obj\Debug\net8.0\ref\Class-Tasks.dll
